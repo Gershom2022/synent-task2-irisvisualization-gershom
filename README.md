@@ -1,7 +1,9 @@
 # Synent Task 2: Iris Data Visualization
 
 **Author:** Gershom Mosora Nyamongo
+
 **Program:** Synent Technologies - Data Science Internship (Task 2)
+
 **Demo video:** <paste your video link>
 
 ## Problem Statement
